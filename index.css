@@ -1,0 +1,35 @@
+.container {
+  background-color: lightblue;
+  height: 28vh;
+  width: 24vw;
+  margin-left: 40%;
+  margin-top: 15%;
+  text-align: center;
+  padding-top: 6px;
+  border-radius: 4px;
+}
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 28px;
+}
+button {
+  height: 30px;
+  width: 80px;
+  border: none;
+  margin: 0px 4px 0px 0px;
+  color: #ffffff;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  cursor: pointer;
+}
+.increase {
+  background-color: rgb(118, 180, 24);
+}
+.reset {
+  background-color: rgb(22, 177, 177);
+}
+.deCrease {
+  background-color: rgba(223, 15, 15, 0.801);
+}
